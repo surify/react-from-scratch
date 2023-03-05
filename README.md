@@ -1,1 +1,1 @@
-### A basic react app created not by the CRA but by directly configuring webpack and babel.
+> A basic react app created not by the CRA but by directly configuring webpack and babel.
